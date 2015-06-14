@@ -1,2 +1,3 @@
 # CodingBat-Solutions-
-my solution to the CodingBat Problems
+my solutions to the CodingBat Problems
+
